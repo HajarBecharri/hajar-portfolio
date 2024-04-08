@@ -4,77 +4,62 @@ import Image from "next/image";
 import TabButton from "./TabButton";
 
 const TAB_DATA = [
-  {
-    title: "Skills",
-    id: "skills",
-    content: (
-        <ul className="list-disc pl-2">
-          <li>
-            <strong>Web Development:</strong>
-            <ul >
-              <li>Angular | Angular Material | Symfony | Bootstrap </li>
-        
-            </ul>
-          </li>
-          <li>
-            <strong>Backend Development:</strong>
-            <ul>
-              <li>Spring Boot | Flask | Symfony | Node.js | Express </li>
-    
-            </ul>
-          </li>
-          
-          <li>
-            <strong>Database Management:</strong>
-            <ul>
-              <li>MySQL | MongoDB</li>
-
-            </ul>
-          </li>
-          <li>
-            <strong>artificial intelligence:</strong>
-            <ul>
-              <li>Machine Learning | Deep Learning </li>
-             
-            </ul>
-          </li>
-          <li>
-            <strong>Hardware Integration:</strong>
-            <ul>
-              <li>Arduino | Raspberry Pi</li>
-              
-            </ul>
-          </li>
-          <li>
-            <strong>Game Development:</strong>
-            <ul>
-              <li>Java</li>
-            </ul>
-          </li>
-          <li>
-            <strong>Graphical User Interface (GUI) Development:</strong>
-            <ul>
-              <li>Python Tkinter | Java Swing</li>
-             
-            </ul>
-          </li>
-          <div className="mt-4">
-             After working on numerous projects,
-             I have acquired a diverse set of skills.
-              However, the most valuable skills I've developed are those of self-learning, 
-              rapid adaptation, and flexibility. These abilities enable me to approach any project or technology with openness and readiness.
-          </div>
-        </ul>
-        
-      ),
-      
-  },
+    {
+        title: "Skills",
+        id: "skills",
+        content: (
+          <ul className="list-disc pl-2">
+            <li>
+              <strong>Web Development:</strong>
+              <ul>
+                <li>Angular | Angular Material | Symfony | Bootstrap </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Backend Development:</strong>
+              <ul>
+                <li>Spring Boot | Flask | Symfony | Node.js | Express </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Database Management:</strong>
+              <ul>
+                <li>MySQL | MongoDB</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Artificial Intelligence:</strong>
+              <ul>
+                <li>Machine Learning | Deep Learning </li>
+              </ul>
+            </li>
+            <li>
+              <strong>Hardware Integration:</strong>
+              <ul>
+                <li>Arduino | Raspberry Pi</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Game Development:</strong>
+              <ul>
+                <li>Java</li>
+              </ul>
+            </li>
+            <li>
+              <strong>Graphical User Interface (GUI) Development:</strong>
+              <ul>
+                <li>Python Tkinter | Java Swing</li>
+              </ul>
+            </li>
+          </ul>
+        ),
+      },
   {
     title: "Education",
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor's in Software Engineering and Intelligent Systems, ongoing
+        <li>Bachelor s in Software Engineering and Intelligent Systems, ongoing
             University Abdelmalek Asaadi, Faculty of Science and Technologies, Tanger</li>
         <li>Diploma of Sciences and Technologies Studies, Faculty of Science and Technologies of Tanger , 2020 - 2022</li>
       </ul>
@@ -96,8 +81,7 @@ const TAB_DATA = [
     id: "awards",
     content: (
       <ul className="list-disc pl-2">
-        <li>Leader of the SOUMAHA team who won the 3rd place at the Potcamp and Netcamp Dayz events.</li>
-        
+        <li>Leader of the SOUMAHA team who won the 3rd place at the Potcamp and Netcamp Days events.</li>
       </ul>
     ),
   },
