@@ -51,6 +51,12 @@ const TAB_DATA = [
                 <li>Python Tkinter | Java Swing</li>
               </ul>
             </li>
+            <li className="mt-4">
+             After working on numerous projects, I have acquired a diverse set of skills.
+             However, the most valuable skills I&apos;ve developed are those of self-learning,
+              rapid adaptation, and flexibility. These abilities enable me to approach any project or technology with openness and readiness.
+
+            </li>
           </ul>
         ),
       },
