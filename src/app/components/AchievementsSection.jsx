@@ -17,13 +17,11 @@ const achievementsList = [
   },
   {
     prefix: "~",
-    metric: "Users",
-    value: "100,000",
-  },
-  
-  {
-    prefix: "~",
     metric: "years of experience",
+    value: "2",
+  },
+  {
+    metric: "Hackathons Participated",
     value: "2",
   },
 ];
