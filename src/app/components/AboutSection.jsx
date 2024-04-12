@@ -52,7 +52,7 @@ const TAB_DATA = [
               </ul>
             </li>
             <div className="mt-4">
-            After numerous projects, I have mastered self-learning, adaptability, and flexibility—key skills for tackling any challenge with ease.
+            After numerous projects, I&apos;ve mastered self-learning, adaptability, and flexibility—key skills for tackling any challenge with ease.
             </div>
           </ul>
           
@@ -63,7 +63,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Bachelor in Software Engineering and Intelligent Systems, ongoing
+        <li>Bachelor&apos;s degree in Software Engineering and Intelligent Systems, ongoing
             University Abdelmalek Asaadi, Faculty of Science and Technologies, Tanger</li>
         <li>Diploma of Sciences and Technologies Studies, Faculty of Science and Technologies of Tanger , 2020 - 2022</li>
       </ul>
