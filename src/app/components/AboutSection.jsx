@@ -51,9 +51,9 @@ const TAB_DATA = [
                 <li>Python Tkinter | Java Swing</li>
               </ul>
             </li>
-            <div className="mt-4">
+            <li className="mt-4">
             After numerous projects, I've mastered self-learning, adaptability, and flexibility—key skills for tackling any challenge with ease.
-            </div>
+            </li>
           </ul>
           
         ),
